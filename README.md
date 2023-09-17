@@ -10,7 +10,6 @@ It provides valuable insights, practical knowledge, and real-world applications 
 ## What's Inside
 
 In this repository, you'll find:
-
 - 💻 Code implementations of the course assignments and projects.
 - 📔 Notebooks, datasets, and resources related to the course.
 - 📑 Documentation and explanations of key machine learning concepts.
