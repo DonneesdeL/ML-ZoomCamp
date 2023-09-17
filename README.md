@@ -18,8 +18,8 @@ Feel free to explore, learn, and collaborate as we delve into the exciting world
 
 ## Course Outline
 
-*Willl keep this updates*
-I. Machine Learning Introduction
+*Willl keep this updated*
+I. Machine Learning Introduction<br>
 II. Regression
 
 
