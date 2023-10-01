@@ -18,8 +18,9 @@ Feel free to explore, learn, and collaborate as we delve into the exciting world
 
 ## Course Outline
 
-<br> I. Machine Learning Introduction 
-<br> II. Regression
+<br> ### I. Machine Learning Introduction 
+<br> ### II. Regression
+<br> ### III. Classification
 
 <br> *(Willl keep this updated)* 
 
