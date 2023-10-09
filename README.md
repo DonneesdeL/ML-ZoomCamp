@@ -21,6 +21,7 @@ Feel free to explore, learn, and collaborate as we delve into the exciting world
 #### I. Machine Learning Introduction 
 #### II. Regression
 #### III. Classification
+#### IV. Evaluation
 
 <br> *(Willl keep this updated)* 
 
